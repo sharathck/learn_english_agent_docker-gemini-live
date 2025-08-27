@@ -1,5 +1,3 @@
-docker_build.log
-docker_push.log
 backend/reviewtext-ad5c6-vertex-ai.json
 *.log
 __pycache__/
